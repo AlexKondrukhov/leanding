@@ -196,6 +196,14 @@
     padding-left: 1vw;
     padding-right: 1vw;
 }
+.main__iframe_preview {
+    min-width: 554px;
+    min-height: 360px;
+    flex-wrap: wrap;
+    box-shadow: 2px 7px 46px 19px rgba(0, 0, 0, 0.2)
+
+}
+
 
 /* Services */
 
@@ -205,11 +213,6 @@
     background-color: #ffffff;
     display: flex;
     margin-top: 10px;
-}
-
-.video {
- width=551px;
- height=356px;  
 }
 
 .services__lead {
