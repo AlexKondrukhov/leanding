@@ -207,6 +207,11 @@
     margin-top: 10px;
 }
 
+.video {
+ width=551px;
+ height=356px;  
+}
+
 .services__lead {
     flex: 1 1 502px;
     max-width: 502px;
